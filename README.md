@@ -46,8 +46,8 @@ se_puede_viajar(vancouver, winnipeg).
 
 ## Integrantes
 
-- Grupo 1
-- Actividad 2 - Programación III
+- SANTIAGO VELASQUEZ JIMENEZ
+- NICOLAS TOVAR GAVIRIA 
 
 ## Nota
 
